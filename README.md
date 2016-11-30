@@ -18,5 +18,4 @@ A list of Ham radio repositories
 
 ## Radio Interface / Control
 -[Icom-civ-server](https://github.com/colinmccabe/icom-civ-server) commanding Icom radios through CI-V interface
-=======
->>>>>>> ce005a52061478db17b8710c9571dce8c140d2e2
+
