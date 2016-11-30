@@ -3,7 +3,6 @@ A list of Ham radio repositories
 
 ## APRS
 - [APEX](https://github.com/Syncleus/apex) An APRS python client, implementing “APrs EXtended” [project homepage / more info](http://apexprotocol.com/)
-<<<<<<< HEAD
 - [aprs-client](https://github.com/delqn/aprs_client) APRS packet parsing and ingestion tools.
 - [ampledata/aprs](https://github.com/ampledata/aprs) Python Module for APRS-IS
 - [python-aprsfi](https://github.com/SAEG-DSE/python-aprsfi) Python module to interact with aprs.fi API
