@@ -3,7 +3,6 @@ A list of Ham radio repositories
 
 ## APRS
 - [APEX](https://github.com/Syncleus/apex) An APRS python client, implementing “APrs EXtended” [project homepage / more info](http://apexprotocol.com/)
-<<<<<<< HEAD
 - [aprs-client](https://github.com/delqn/aprs_client) APRS packet parsing and ingestion tools.
 - [ampledata/aprs](https://github.com/ampledata/aprs) Python Module for APRS-IS
 - [python-aprsfi](https://github.com/SAEG-DSE/python-aprsfi) Python module to interact with aprs.fi API
@@ -14,7 +13,10 @@ A list of Ham radio repositories
 - [APRS-MS](https://github.com/chazapis/APRS-MS) An email interface to APRS messaging [aprs-ms.net](http://aprs-ms.net)
 - [aprs-archiver](https://github.com/do1fdk/aprsis-archiver) Archives APRS-IS reports to bz2 compressed files.
 - [picontroller](https://github.com/jpmeijers/picontroller) This program switches GPIO pins on or off on the Raspberry Pi's P1 header according to commands received over APRS.
+<<<<<<< HEAD
 
 
 ## Radio Interface / Control
 -[Icom-civ-server](https://github.com/colinmccabe/icom-civ-server) commanding Icom radios through CI-V interface
+=======
+>>>>>>> ce005a52061478db17b8710c9571dce8c140d2e2
